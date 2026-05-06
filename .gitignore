@@ -1,0 +1,4 @@
+assets/softwares/*
+assets/mac/*
+!assets/softwares/.gitkeep
+!assets/mac/.gitkeep
